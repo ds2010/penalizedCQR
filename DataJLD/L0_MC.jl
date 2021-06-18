@@ -15,7 +15,7 @@ function L0_testing(n, d, k, SNR, tau, method, fun, seed)
     k_all = collect(1:1:(d-1))
     if method == "expectile"
         q_inv, tau_e = tau_expectile(epsilon, tau)
-        bigM_all = [1.5, 2, 3, 4, 5, 6]
+        bigM_all = [1, 1.5, 2, 3, 4, 5]
     elseif (method == "quantile")
         q_inv, ~ = tau_expectile(epsilon, tau)
         tau_e = tau

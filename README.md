@@ -2,7 +2,7 @@
 
 This repository presents the main codes to calcualte the L1- and L0-penalized CQR and CER models using the CNLS-Adapted cutting plane (CNLS-A) algorithm. See more discussions in the following working paper:
 
-*Variable selection in convex quantile regression: L1 or L0 regularization?* available on [arXiv]().
+*Variable selection in convex quantile regression: L1-norm or L0-norm regularization?* available on [arXiv]().
 
 ## functions
 - L1_CQER.jl: solve the L1-norm penalized CQR/CER model

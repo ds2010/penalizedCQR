@@ -1,5 +1,5 @@
 # The first version of Cutting-plane Algorithm was created by Bertsimas and Mundru (2020).  
-# What is presented here is a heavily adapted version to estiamte large scale CQR/CER and pCQR/pCER models.
+# What is presented here is a slightly adapted version to estiamte large scale CQR/CER and pCQR/pCER models.
 #
 # Sheng Dai (sheng.dai@aalto.fi)
 # Aalto University School of Business, Finland
